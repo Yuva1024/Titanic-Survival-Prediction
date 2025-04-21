@@ -54,7 +54,7 @@ Trained it on the training dataset.
 
 Model Evaluation
 
-Achieved around 73% accuracy on the test set.
+Achieved around 80% accuracy on the test set.
 
 Observed that increasing n_estimators can sometimes improve stability.
 
